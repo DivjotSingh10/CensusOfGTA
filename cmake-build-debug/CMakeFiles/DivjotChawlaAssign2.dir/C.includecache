@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CLionProjects/DivjotChawlaAssign2/bureau.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+bureau.h
+C:/CLionProjects/DivjotChawlaAssign2/bureau.h
+
+C:/CLionProjects/DivjotChawlaAssign2/bureau.h
+
+C:/CLionProjects/DivjotChawlaAssign2/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+bureau.h
+C:/CLionProjects/DivjotChawlaAssign2/bureau.h
+
